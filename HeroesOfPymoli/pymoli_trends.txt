@@ -1,0 +1,9 @@
+Heroes of Pymoli Trend Observations
+
+1. Male players make up over 84% of the total in-game purchases with about 2% of buyers leaving their gender undisclosed.
+
+2.  Nearly half of the players who have made in-game purchases are in the 20-24 age range (44%).
+
+4.  Nearly half of total revenue also comes from the 20-24 age range ($1,114.06 out of $2,379.77).
+
+5.  Item 178 is the most popular purchasable item with a total purchase count of 12, 3 more than the next highest item.
